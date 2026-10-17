@@ -1,8 +1,8 @@
 {
  "schema": 2,
- "updated_at": "2026-10-17T15:11:11+02:00",
- "updated_at_th": "2026-10-17T20:11:11+07:00",
- "updated": "2026-10-17T13:11:11+00:00",
+ "updated_at": "2026-10-17T15:12:26+02:00",
+ "updated_at_th": "2026-10-17T20:12:26+07:00",
+ "updated": "2026-10-17T13:12:26+00:00",
  "time_note": "time = เวลาปารีส (Europe/Paris), time_th = เวลาไทย (Asia/Bangkok, เร็วกว่าปารีส 5 ชม. ช่วงหน้าหนาว / 6 ชม. ช่วงหน้าร้อน)",
  "note": "รวบรวมอัตโนมัติจากหัวข่าวจริงพร้อมลิงก์ต้นทาง ข้อความไทยเป็นป้ายสรุปตามคำสำคัญ ไม่ใช่คำแปล โปรดกดอ่านต้นทาง",
  "sources": [
@@ -32,19 +32,37 @@
    "via": "Google News"
   },
   {
-   "id": "7b52bf7f0e11",
+   "id": "61bf0f774330",
+   "cat": "transit",
+   "cat_th": "🚇 ขนส่งสาธารณะ",
+   "severity": "high",
+   "title_th": "นัดหยุดงาน (12–18 ต.ค.)",
+   "summary_th": "เช็กสถานะสายใน RATP/IDFM ก่อนออก และเผื่อเวลาเดินทาง",
+   "title": "Metro, RER, buses: strikes and disruptions from October 12 to 18, 2026",
+   "lang": "en",
+   "src": "Sortir à Paris",
+   "src_home": "https://www.sortiraparis.com",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTVBiNDVzaGQyYzEybElYX0prdTRPMERoR25WOXhKcl8yaW9jRFVuZTBzQXRfcHB3WHplQWJMRXN2STVkTWdKOXBrRnVhUXdnYmE5am5CTGduSU9Ga3F4ZmxrdE8wSVZWdGsxLWRtSldQdGgxX29VdjhUSkVXd3R4WFpFT3lfbkF1LUlCOWNFdXJnbmNSLXJET0hfLVRiQi1ad2tWc1BXMjhUQU1qM0U5bGlld01aSm5Pc0k5dXlRLWpla2cwYjNncnRR?oc=5",
+   "time": "2026-10-17T13:37+02:00",
+   "time_th": "2026-10-17T18:37+07:00",
+   "event_date": "2026-10-12",
+   "upcoming": false,
+   "via": "Google News"
+  },
+  {
+   "id": "babac85dcb76",
    "cat": "transit",
    "cat_th": "🚇 ขนส่งสาธารณะ",
    "severity": "high",
    "title_th": "เมโทรสาย 2 · สถานีเมโทร/RER บางแห่งปิด · ช่วงหยุด Toussaint (ปลาย ต.ค.–ต้น พ.ย.)",
    "summary_th": "เช็กสถานะสายใน RATP/IDFM ก่อนออก และเผื่อเวลาเดินทาง",
-   "title": "Ligne 2 : trafic interrompu pendant les vacances de la Toussaint, 7 stations de métro fermées",
+   "title": "Paris : la ligne 2 du métro fermée en partie plusieurs jours pendant la Toussaint",
    "lang": "fr",
-   "src": "Sortir à Paris",
-   "src_home": "https://www.sortiraparis.com",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSVRDcDdpMWtuQUhYV1ZYWjFrLWpGU1pzUkJRc0N6TWJfQlBYTTBZcVFVaFJHU2hhbzdRa3g4QzJLY1BROGQ0ZmcyMGhKeW5sUHk4dWg0N2pWS0tSb3B4d0VtenFpV1BPc0l5bnNhWlFOeUJvQUNEV1ZlQnYtbDhjdkxyZUE5X0NIdE5Mck5LRElER1Y3anc0NU51QmZ5UzR5R3N4MW5BVzFyWEVYVTlzWll0ZjlTV2w1ODlXY3ItWDd3ZDhmb3UxUnJUUDJ2UmZMa2JYcjRqamxCRkhsRlpoQXhoV0psOWVzZGc?oc=5",
-   "time": "2026-10-17T09:06+02:00",
-   "time_th": "2026-10-17T14:06+07:00",
+   "src": "Le Parisien",
+   "src_home": "https://www.leparisien.fr",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPUTVUbVlJb2o1ZFBLSHZucEJtcVBpZThYZHlINVhHMUVudmwycTFvTXROU0djbUxxQnhEM2Z0WXRzY0pqS09BSTNsNUVkVGRQN3VEWVh1RjRaeGRqdkpOeVhvSmtKWS1KMlZ3Zk1HZHp3X2g4YW9zY2YyYnZVck4wc3dkVmREUmJPcE8zb2pRQklRU3F3YjdncDR4aGx5b0RYOE53RnVMbEl6SzJ0UDlhbS1FR1ZfUEFSQldWS0R2dnItbVFOc0ZSUGtVT18wWllmTHRWc2VaVUVzOUJKbi1mWXF3bTB2bHlnNWdBNFZRMmJ0NWluZUh6Nks4cDJ1aFZ0RDgyTzNsVW9kMzVUOG5KU2ljeDQzSm8?oc=5",
+   "time": "2026-10-17T07:00+02:00",
+   "time_th": "2026-10-17T12:00+07:00",
    "event_date": null,
    "upcoming": false,
    "via": "Google News"
@@ -64,24 +82,6 @@
    "time": "2026-10-17T00:44+02:00",
    "time_th": "2026-10-17T05:44+07:00",
    "event_date": null,
-   "upcoming": false,
-   "via": "Google News"
-  },
-  {
-   "id": "867068175a72",
-   "cat": "transit",
-   "cat_th": "🚇 ขนส่งสาธารณะ",
-   "severity": "high",
-   "title_th": "มีการชุมนุม · การจราจร/ปิดถนน (17 ต.ค.)",
-   "summary_th": "เช็กสถานะสายใน RATP/IDFM ก่อนออก และเผื่อเวลาเดินทาง",
-   "title": "Manifestations du 17 octobre : trafic routier, transports en commun… À quoi s’attendre ce samedi ?",
-   "lang": "fr",
-   "src": "Ouest-France",
-   "src_home": "https://www.ouest-france.fr",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcDdXMzY1WkxTUDdCcmU4U05rTXVuY1BkMXc4X2c3a1AyTWxYUy1VWmI4dlFOamtMVXp4Ulh2VFFySXF6cnY5TEtQZkwxd0tBYndvU09HQTNieUc5MGg0YnN1VXlVMWtUMkd5SmxSODVVZlRnTjA1dG1FNVFrNEphcmJWQmxhUDdkYURRamFNNUZpaExMRjNSRkFCc3cwMmJaMk55aFpGSV90eW5EYUR4V3JXeWFsWTluZHVVRUtOZHFoVzgtRXlfNjFiaDV2X0Qxa3NfdWhTdkRkay1PdDFfZ1JQVFc2Z0xERU5RT3hQZXVYNXRZWnJOUEx4alFWTEttcm5CZFBZUHpzUQ?oc=5",
-   "time": "2026-10-16T19:29+02:00",
-   "time_th": "2026-10-17T00:29+07:00",
-   "event_date": "2026-10-17",
    "upcoming": false,
    "via": "Google News"
   },
@@ -122,6 +122,24 @@
    "via": "Google News"
   },
   {
+   "id": "e0180a80b1a4",
+   "cat": "protest",
+   "cat_th": "📣 ชุมนุม/ประท้วง",
+   "severity": "high",
+   "title_th": "มีการชุมนุม · มีการจับกุม",
+   "summary_th": "เลี่ยงบริเวณชุมนุม ถ้าเจอฝูงชนหรือตำรวจปิดทาง ให้ถอยออกทันที",
+   "title": "Dozens arrested in Paris as tens of thousands expected to protest across France",
+   "lang": "en",
+   "src": "Yahoo News UK",
+   "src_home": "https://uk.news.yahoo.com",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZHgzM1FGX042d2pjZE9mRTZtTWluc28tUmN3c2RkMmphS0diNklTUmVmbmNHMHJWc2FuMmQ1MWRzV1NXbEp0X2FteGNfaW5rRTNTa3FKQ2JzTXQ4Z05vcTF5US0tV3I3WUhtUTV6NXpyREVONERldEYwRmdHMzNMbG5jQQ?oc=5",
+   "time": "2026-10-17T13:18+02:00",
+   "time_th": "2026-10-17T18:18+07:00",
+   "event_date": null,
+   "upcoming": false,
+   "via": "Google News"
+  },
+  {
    "id": "9bd1feb38a74",
    "cat": "protest",
    "cat_th": "📣 ชุมนุม/ประท้วง",
@@ -154,24 +172,6 @@
    "time": "2026-10-17T14:08+02:00",
    "time_th": "2026-10-17T19:08+07:00",
    "event_date": "2026-10-17",
-   "upcoming": false,
-   "via": "Google News"
-  },
-  {
-   "id": "6d948ed74151",
-   "cat": "protest",
-   "cat_th": "📣 ชุมนุม/ประท้วง",
-   "severity": "medium",
-   "title_th": "ประท้วงค่าครองชีพ · มีการชุมนุม",
-   "summary_th": "เลี่ยงบริเวณชุมนุม ถ้าเจอฝูงชนหรือตำรวจปิดทาง ให้ถอยออกทันที",
-   "title": "France faces day of cost-of-living protests",
-   "lang": "en",
-   "src": "Dhaka Tribune",
-   "src_home": "https://www.dhakatribune.com",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQR0oxXzZrOGNCZTY4Q3Q3YWczZEQ0Y0RnbUwyS1RHV2toSVVtNXN6cnctQzlabWlGRzZQVF8tRmRJN3lXT3paTjVENThqdGhMX3JPOXhrTlBhM2xwdU55cTZTakpKZVdoVk1qSE1pOXVaaUI4a2QtRUh5Ylh4UGJiQnU5djI2Rm1WVEI3TFBZWDVRRlFHb0VXcFZVTGnSAZwBQVVfeXFMUEdKMV82azhjQmU2OEN0N2FnM2RENGNEZ21MMktUR1draElVbTVzenJ3LUM5Wm1pRkc2UFRfLUZkSTd5V096Wk41RDU4anRoTF9yTzl4a05QYTNscHVOeXE2U2pKSmVXaFZNakhNaTl1WmlCOGtkLUVIeWJYeFBiYkJ1OXYyNkZtVlRCN0xQWVg1UUZRR29FV3BWVUxp?oc=5",
-   "time": "2026-10-17T13:07+02:00",
-   "time_th": "2026-10-17T18:07+07:00",
-   "event_date": null,
    "upcoming": false,
    "via": "Google News"
   },
@@ -284,7 +284,5 @@
    "via": "BFM Paris"
   }
  ],
- "errors": [
-  "France 24: HTTPError"
- ]
+ "errors": []
 }

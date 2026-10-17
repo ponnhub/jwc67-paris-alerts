@@ -253,7 +253,7 @@ out = {
     'sources': ['Google News RSS (FR/EN)', 'BFM Paris RSS', 'France 24 RSS', 'franceinfo RSS'] + (['IDFM PRIM'] if k else []),
     'count': len(kept), 'items': kept, 'errors': errors,
 }
-def content_key(o): return json.dumps([(i['url'], i['title_th'], i['summary_th']) for i in o.get('items', [])], ensure_ascii=False)
+def content_key(o): return json.dumps(sorted((i.get('src',''), i.get('title',''), i.get('title_th','')) for i in o.get('items', [])), ensure_ascii=False)
 
 args = sys.argv[1:]
 path = args[args.index('--out')+1] if '--out' in args else os.path.join(HERE, 'alerts.json')

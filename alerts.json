@@ -1,8 +1,8 @@
 {
  "schema": 2,
- "updated_at": "2026-10-18T07:09:40+02:00",
- "updated_at_th": "2026-10-18T12:09:40+07:00",
- "updated": "2026-10-18T05:09:40+00:00",
+ "updated_at": "2026-10-18T08:06:19+02:00",
+ "updated_at_th": "2026-10-18T13:06:19+07:00",
+ "updated": "2026-10-18T06:06:19+00:00",
  "time_note": "time = เวลาปารีส (Europe/Paris), time_th = เวลาไทย (Asia/Bangkok, เร็วกว่าปารีส 5 ชม. ช่วงหน้าหนาว / 6 ชม. ช่วงหน้าร้อน)",
  "note": "รวบรวมอัตโนมัติจากหัวข่าวจริงพร้อมลิงก์ต้นทาง ข้อความไทยเป็นป้ายสรุปตามคำสำคัญ ไม่ใช่คำแปล โปรดกดอ่านต้นทาง",
  "sources": [
@@ -248,6 +248,24 @@
    "via": "Google News"
   },
   {
+   "id": "28db82359279",
+   "cat": "sight",
+   "cat_th": "🏛️ สถานที่ท่องเที่ยว",
+   "severity": "medium",
+   "title_th": "เหตุไฟไหม้",
+   "summary_th": "ย่าน: จัตุรัส République · เช็กเว็บทางการของสถานที่ก่อนไป",
+   "title": "\"C'est un monument qui brûle, mais ce n'est pas la République\" : l'émotion mêlée de colère du maire de Limoges devant l'incendie qui a détruit l'hôtel de ville",
+   "lang": "fr",
+   "src": "franceinfo",
+   "src_home": "",
+   "url": "https://www.franceinfo.fr/faits-divers/c-est-un-monument-qui-brule-mais-ce-n-est-pas-la-republique-l-emotion-melee-de-colere-du-maire-de-limoges-devant-l-incendie-qui-a-detruit-l-hotel-de-ville_8242447.html#xtor=RSS-3-[lestitres]",
+   "time": "2026-10-18T07:33+02:00",
+   "time_th": "2026-10-18T12:33+07:00",
+   "event_date": null,
+   "upcoming": false,
+   "via": "franceinfo"
+  },
+  {
    "id": "c9426934317a",
    "cat": "safety",
    "cat_th": "⚠️ ความปลอดภัย",
@@ -261,24 +279,6 @@
    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQLUdUWTZaODM2MWhwOEdyNlFYdkw0ZFF3SktXVU91OERjTEZVMlNiXzFobmdIbWZmMFpWdTQ1YU9QYWtVbHZKdV95eDFQLTNQUVI1YmZJZWMxc3hfM0p0WExuSnhObENwdG4yWlF2MzVDUDZVZFBlZkppeVpXaDdqc0hpcUhsc2NUb3BMOTdZQm5WN25weWZSdHdHeVdxQVkybWRNT1JVYlJreTNYS29wQnR0Q1FYOTQ1MW9ZY3pZLUxFNDRpY3F1T1VvR2dncHplMmV0QkR5UjBERDIzX2xYQzgtbUhPcmZWM3R1aHp4eFk0Q3FsX0NnWUdpX1dFZzlRNGdpVUVPTE1pcFBkWG1VMVNlSDJKZzVTQ08xMUZHeGVWMmpuWGdXY1JzeUU3QQ?oc=5",
    "time": "2026-10-17T16:53+02:00",
    "time_th": "2026-10-17T21:53+07:00",
-   "event_date": null,
-   "upcoming": false,
-   "via": "Google News"
-  },
-  {
-   "id": "6e8f5d0a90f5",
-   "cat": "politics",
-   "cat_th": "🏛 การเมือง",
-   "severity": "low",
-   "title_th": "ประธานาธิบดีมาครง",
-   "summary_th": "ข่าวการเมือง อาจมีการชุมนุมตามมา ติดตามแจ้งเตือนต่อ",
-   "title": "'No room for violence,' says Macron after rioters and looters hijack peaceful demonstrations across France",
-   "lang": "en",
-   "src": "Euronews.com",
-   "src_home": "https://www.euronews.com",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdzRyRkkxaEo3V0d3QWItMWJXdDdHMUM4UElWa3BDQTJfcFVYWHBTMXY3eDhYY0I2Mm10QWtMdzFPM0p1dU1JcnNwRGw3M2RZSWVJNXlBTEZNSFZoRmowZ2dXd1l3elVwZ2ltb3laZUY4UTFFaWpWOHY1c0VYZ1lmUFRsUjl4T2NiTTBoQ1cweU8zRVpadm4tVm9MR0VEUFA5UTdyakEzOEd1MXk2S3J6X1dWVEpCSTIwN1N5S0t5dHdyLXFU?oc=5",
-   "time": "2026-10-17T21:59+02:00",
-   "time_th": "2026-10-18T02:59+07:00",
    "event_date": null,
    "upcoming": false,
    "via": "Google News"
